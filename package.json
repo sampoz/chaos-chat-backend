@@ -1,0 +1,27 @@
+{
+  "name": "chaos-chat-backend",
+  "version": "0.6.6",
+  "description": "A backend for chaos-chat",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampoz/chaos-chat-backend.git"
+  },
+  "keywords": [
+    "chat",
+    "backend"
+  ],
+  "author": "Sampsa Laapotti (sampoz)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sampoz/chaos-chat-backend/issues"
+  },
+  "homepage": "https://github.com/sampoz/chaos-chat-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
